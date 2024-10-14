@@ -4,6 +4,8 @@
 
 This project involves the **Universal Verification Methodology (UVM)** verification of a **Synchronous FIFO** design. The goal was to create a complete UVM environment to thoroughly verify the functionality of the FIFO, including test sequences, assertions, functional coverage, and the use of constraints and covergroups to ensure all conditions and edge cases are verified.
 
+---
+
 ## UVM Structure
 
 ![Project Image](https://github.com/MohamedHussein27/FIFO-UVM/blob/main/Doc/UVM%20Structure.png)
